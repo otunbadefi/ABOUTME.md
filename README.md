@@ -22,9 +22,6 @@ What I Do
 - Structure user feedback from live testnets
 - Support onboarding and retention systems
 
-I focus on turning user activity into structured insights that teams can act on.
-
-
 Profressional Experience
 
 - Scaled community from 1,000 → 3,600+ members (Aethir)
@@ -35,7 +32,13 @@ Profressional Experience
 
 Research Notes
 
-I'm actively studying how Ethereum Blockchain evolves.
+This repository contains small experiments and notes while learning Ethereum infrastructure.
+
+Topics explored:
+• Rollups
+• Merkle trees
+• Smart contracts using Foundry
+
 
 Key areas:
 - Separation of execution and settlement in rollups
